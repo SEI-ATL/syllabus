@@ -88,7 +88,7 @@
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| How to write a readme                                | [link](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf), [link 2](https://www.markdownguide.org/cheat-sheet/#extended-syntax)   |
+| How to write a readme                                | [link](), [link 2]()   |
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
@@ -100,9 +100,9 @@
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| Advanced CSS                                | [Responsive Design](https://gawdiseattle.gitbook.io/wdi/03-html-css/css-responsive-design/02responsivedesign), [Pseudo-Classes/Elements](https://gawdiseattle.gitbook.io/wdi/03-html-css/css-responsive-design/03pseudo),  [Vendor Prefixes](https://gawdiseattle.gitbook.io/wdi/03-html-css/css-responsive-design/04vendorprefixes)  |
-| CSS Frameworks                                  | [Lab: Research](https://gawdiseattle.gitbook.io/wdi/03-html-css/css-frameworks), [Bootstrap](https://gawdiseattle.gitbook.io/wdi/03-html-css/css-bootstrap) |
-| How the Internet Works                                | [link](https://tmdarneille.gitbook.io/sei-ga-sea/09-other-topics/internet-fundamentals)   |
+| Advanced CSS                                | [Responsive Design](), [Pseudo-Classes/Elements](),  [Vendor Prefixes]()  |
+| CSS Frameworks                                  | [Lab: Research](), [Bootstrap]() |
+| How the Internet Works                                | [link]()   |
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
@@ -113,9 +113,9 @@
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| APIs                                    | [link](https://tmdarneille.gitbook.io/sei-ga-sea/00readme)   |
-| Fetch                                 | [Fetch](https://tmdarneille.gitbook.io/sei-ga-sea/00readme/fetch), [AJAX w/ Fetch](https://tmdarneille.gitbook.io/sei-ga-sea/00readme/ajax-fetch)  |
-| Deliverable: Reddit Slideshow                              | [link](https://github.com/romebell/fetch-reddit-slideshow)  |
+| APIs                                    | [link]()   |
+| Fetch                                 | [Fetch](), [AJAX w/ Fetch]()  |
+| Deliverable: Reddit Slideshow                              | [link]()  |
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
@@ -126,10 +126,10 @@
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| HTML Forms                                | [link](https://github.com/romebell/html-forms)   |
-| OOP in JavaScript                                  | [link](https://gawdiseattle.gitbook.io/wdi/javascript/01-js-oop-2019)   |
-| Promises                                | [link](https://tmdarneille.gitbook.io/sei-ga-sea/javascript/js-control-flow/05promises#creating-a-promise), [JavaScript Promise for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)   |
-| Async/Await                     | [link](https://tmdarneille.gitbook.io/sei-ga-sea/javascript/additional-topics/ajax-async-await), [javascript.info](https://javascript.info/async-await)  |
+| HTML Forms                                | [link]()   |
+| OOP in JavaScript                                  | [link]()   |
+| Promises                                | [link](), [JavaScript Promise for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)   |
+| Async/Await                     | [link](), [javascript.info](https://javascript.info/async-await)  |
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
@@ -140,8 +140,8 @@
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| Canvas Crawler                                 | [link](https://github.com/WDI-SEA/canvas-crawler)   |
-| Project 1 Launch                               | [Specs](https://tmdarneille.gitbook.io/sei-ga-sea/11-projects/project-1), [Example Projects](https://tmdarneille.gitbook.io/sei-ga-sea/11-projects/past-projects/project1)   |
+| Canvas Crawler                                 | [link]()   |
+| Project 1 Launch                               | [Specs](), [Example Projects]()   |
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
@@ -151,4 +151,4 @@
 ## Week 3 `Project Week`
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| Deploy Using Github Pages                       | [link](https://tmdarneille.gitbook.io/sei-ga-sea/00-config-deployment/deploy-github-pages)   |
+| Deploy Using Github Pages                       | [link]()   |
